@@ -16,6 +16,8 @@ Other tools I use: ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C
                    ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
                    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
                    
+Where you can reach me: [Linkedin](https://www.linkedin.com/in/matteo-inchingolo-9334b31a1/) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+                   
 
 ---
 
