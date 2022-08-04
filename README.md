@@ -18,6 +18,7 @@ Other tools I use: ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C
                    
 Where you can reach me: [Linkedin](https://www.linkedin.com/in/matteo-inchingolo-9334b31a1/) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
                    
+Preferred coding platform: [Codewars](https://www.codewars.com/users/Matte997) ![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 
 ---
 
