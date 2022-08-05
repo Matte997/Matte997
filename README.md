@@ -2,9 +2,12 @@
 
 ### I work as a Software Developer:man_technologist: specialized in Backend system for a company sited in Turin (IT), I want to contribute in [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) projects to help others and learn something new that could be useful for my personal knowledge!        
                    
-Where you can reach me: [![Linkedin badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-inchingolo-9334b31a1/)
+Where you can reach me: <a href="https://www.linkedin.com/in/matteo-inchingolo-9334b31a1/">
+                          <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="Linkedin badge" style="vertical-align:top; margin:6px 4px">
+                          </a>
                    
-Preferred coding platform: [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Matte997)
+Preferred coding platform: <a href="https://www.codewars.com/users/Matte997">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/codewars.svg" alt="codewars badge" style="vertical-align:top; margin:6px 4px">
 
 ---
 
@@ -16,24 +19,24 @@ Preferred coding platform: [![Codewars](https://img.shields.io/badge/Codewars-B1
 
 
  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt=" badge css" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css badge" style="vertical-align:top; margin:6px 4px">
   </a>  
  
  <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="badge html" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html badge" style="vertical-align:top; margin:6px 4px">
   </a>
 
  <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="badge javascript" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="javascript badge" style="vertical-align:top; margin:6px 4px">
   </a>
 
  <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="badge java" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java badge" style="vertical-align:top; margin:6px 4px">
   </a>
 
 My favourite IDE:
 <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" alt="badge intellij" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" alt="intellij badge" style="vertical-align:top; margin:6px 4px">
   </a>
                                
 Other tools I use: 
