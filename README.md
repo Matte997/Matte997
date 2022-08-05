@@ -16,9 +16,9 @@ Other tools I use: ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C
                    ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
                    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
                    
-Where you can reach me: [Linkedin](https://www.linkedin.com/in/matteo-inchingolo-9334b31a1/) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+Where you can reach me: [![Linkedin badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-inchingolo-9334b31a1/)
                    
-Preferred coding platform: [Codewars](https://www.codewars.com/users/Matte997) ![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
+Preferred coding platform: [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Matte997)
 
 ---
 
