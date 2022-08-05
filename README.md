@@ -12,7 +12,7 @@ Preferred coding platform: [![Codewars](https://img.shields.io/badge/Codewars-B1
 |---|---|
 |[![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=Matte997&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) |[![Matthew's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matte997&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) |
 
-Languages:
+:zap: Languages:
 
 
  <a href="#">
@@ -40,3 +40,8 @@ Other tools I use: ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C
                    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
                    ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
                    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+                   
+What I like:
+
+- Cats:black_cat:
+- Reading tech blogs
