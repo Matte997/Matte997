@@ -16,6 +16,7 @@ Other tools I use: ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C
                    ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
                    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
                    
+                   
 Where you can reach me: [![Linkedin badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-inchingolo-9334b31a1/)
                    
 Preferred coding platform: [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Matte997)
@@ -26,4 +27,58 @@ Preferred coding platform: [![Codewars](https://img.shields.io/badge/Codewars-B1
 |---|---|
 |[![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=Matte997&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) |[![Matthew's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matte997&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) |
 
+Languages and Tools:
+
+
+ <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt=" badge css" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ 
+ <a href="#">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="badge html" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+ <a href="#">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="badge javascript" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+ <a href="#">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="badge java" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+ <a href="#">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" alt="badge intellij" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+ <a href="#">
+  <img src="" alt="" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+ <a href="#">
+  <img src="" alt="" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+ <a href="#">
+  <img src="" alt="" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+ <a href="#">
+  <img src="" alt="" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+ <a href="#">
+  <img src="" alt="" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+ <a href="#">
+  <img src="" alt="" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+ <a href="#">
+  <img src="" alt="" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+ <a href="#">
+  <img src="" alt="" style="vertical-align:top; margin:6px 4px">
+  </a>
 
