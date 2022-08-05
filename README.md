@@ -12,7 +12,7 @@ Preferred coding platform: [![Codewars](https://img.shields.io/badge/Codewars-B1
 |---|---|
 |[![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=Matte997&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) |[![Matthew's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matte997&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) |
 
-Languages and Tools:
+Languages:
 
 
  <a href="#">
